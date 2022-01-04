@@ -1,1 +1,1 @@
-# ProjecStudedJavaScriptII
+# ProjectcStudedJavaScriptII
