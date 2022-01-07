@@ -1,3 +1,11 @@
-function carregamentoPagina() {
-    alert("Mensagem Apresentada no carregamento do sistema");
-}
+// function carregamentoPagina() {
+//     alert("Mensagem apresentada no carregamento do sistema");
+// }
+
+$(() => {
+    //Código executado no carregamento da página
+    lert("Mensagem apresentada no carregamento do sistema");
+    
+
+
+})
